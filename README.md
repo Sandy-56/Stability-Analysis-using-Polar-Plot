@@ -19,6 +19,10 @@ If there are no clockwise encirclements of −1+j0-1 + j0−1+j0, the system is 
 
 MATLAB is used to generate the polar plot and verify stability by visually confirming encirclement conditions and validating Nyquist-based observations.
 
+<img width="1144" height="514" alt="image" src="https://github.com/user-attachments/assets/e2498679-899c-47e4-b838-b0191c54e722" />
+<img width="1280" height="796" alt="image" src="https://github.com/user-attachments/assets/00c0f723-3519-4f69-a3ef-f416e924ff84" />
+![Uploading image.png…]()
+
 
 
 
